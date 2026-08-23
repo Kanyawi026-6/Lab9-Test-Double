@@ -1,0 +1,7 @@
+sqa\lab\service\MovieService.class
+sqa\lab\service\MoviePortalStub.class
+sqa\lab\service\SeatDAO.class
+sqa\lab\service\SeatReservation.class
+sqa\lab\service\TicketCounter.class
+sqa\lab\service\GateCheckin.class
+sqa\lab\service\NowPlaying.class
